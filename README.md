@@ -9,6 +9,7 @@
         <li>💻 Passionate about building scalable <b>web applications</b> and exploring <b>AI & Machine Learning</b></li>
         <li>🌱 Currently learning <b>Express.js</b></li>
         <li>⚡ Always experimenting with <b>new technologies and contributing to open-source</b></li>
+        <li>⚡ Fun fact: I can Debug faster with endless Music</li>
       </ul>
     </td>
     <td>
